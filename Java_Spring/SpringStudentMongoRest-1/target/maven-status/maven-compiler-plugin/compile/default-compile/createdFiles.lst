@@ -1,0 +1,10 @@
+com/studentapp/model/Address.class
+com/studentapp/controllers/StudentResponseController.class
+com/studentapp/SpringStudentMongoRest1Application.class
+com/studentapp/exception/StudentNotFoundException.class
+com/studentapp/controllers/StudentController.class
+com/studentapp/dao/StudentRepository.class
+com/studentapp/service/StudentServiceImpl.class
+com/studentapp/model/Student.class
+com/studentapp/service/StudentService.class
+com/studentapp/ServletInitializer.class
